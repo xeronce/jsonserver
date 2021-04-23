@@ -1,6 +1,10 @@
-[
-  { "id": 1, "name": "arko rehman" },
-  { "id": 2, "name": "Abul Monsur" },
-  { "id": 3, "name": "Tazim Hossain" },
-  { "id": 4, "name": "Mafizur Rahman" }
-]
+{
+  "list_data": [
+    { "nid": 1, "name": "arko rehman", "picture":"https://live.staticflickr.com/406/31988854791_3586c82a52_h.jpg"},
+    { "nid": 2, "name": "Abul Monsur", "picture":"https://www.amateurphotographer.co.uk/wp-content/uploads/2017/11/Milky-Way-panorama-bog-pool_-Long-Mynd.jpg"},
+    { "nid": 3, "name": "Tazim Hossain", "https://photographylife.com/wp-content/uploads/2018/12/Galaxy-over-Mountains.jpg"},
+    { "nid": 4, "name": "Mafizur Rahman", "picture":"https://live.staticflickr.com/5503/11189210103_82eb1e2e57.jpg"}
+  ],
+  "detail_data": { "nid": 1, "name": "arko rehman", "country":"bd", "picture":"picture":"https://live.staticflickr.com/406/31988854791_3586c82a52_h.jpg"},
+  "profile_data": {"uid":1, "name":"arko rehman", "country":"bd", "email":"arkorehman@gmail.com", "mobile_number":"02342424324","about":"this is about me data.","payment_details":{"account_name":"arko rehman", "account_number":23423424, "payment_type":"card"}}
+}
