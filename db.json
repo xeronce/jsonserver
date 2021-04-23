@@ -3,7 +3,7 @@
         "first_prize": "5",
         "second_prize": "1.5",
         "third_prize": ".5",
-        "participate":"10",
+        "participate": "10",
         "data": [
             { "nid": "1", "name": "arko rehman", "picture": "https://live.staticflickr.com/406/31988854791_3586c82a52_h.jpg" },
             { "nid": "2", "name": "Abul Monsur", "picture": "https://www.amateurphotographer.co.uk/wp-content/uploads/2017/11/Milky-Way-panorama-bog-pool_-Long-Mynd.jpg" },
