@@ -28,7 +28,7 @@
       { "nid": "20", "name": "Abul Monsur", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWcbYMj4Tbp-GDUse37uToSFCTXsLrA-VWg&usqp=CAU" }
     ]
   },
-  "detail_data": { "nid": "1", "name": "arko rehman", "is_portrait":false, "country": "bd", "total_liked":"2", "total_favorite":"1", "is_liked":"0", "is_favorite":"0", "picture": "https://live.staticflickr.com/2664/3867767062_ce759d1785.jpg" },
+  "detail_data": { "nid": "1", "name": "arko rehman", "is_portrait":"1", "country": "bd", "total_liked":"2", "total_favorite":"1", "is_liked":"0", "is_favorite":"0", "picture": "https://live.staticflickr.com/2664/3867767062_ce759d1785.jpg" },
   "profile_data": {
     "uid": "1",
     "name": "arko rehman",
