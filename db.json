@@ -28,7 +28,7 @@
   "7":{ "nid": "7", "name": "Ms c", "is_portrait":true, "country": "bd", "picture": "https://i.pinimg.com/originals/03/0c/f3/030cf3c28a835d323aed1763f7b9c77c.jpg" },
   "8":{ "nid": "8", "name": "Ms d", "is_portrait":true, "country": "bd", "picture": "https://u01.appmifile.com/images/2018/07/25/21275a04-3349-41de-a0a0-55fc4b51ddcb.png" },
   "9":{ "nid": "9", "name": "Mr e", "is_portrait":true, "country": "bd", "picture": "https://davidlazarphoto.com/amp/wp-content/uploads/2012/07/01-David-Lazar-Field-of-Yellow.jpg" },
-  "10":{ "nid": "10", "name": "Mr f", "is_portrait":true, "country": "bd", "picture": "http://photos.tourtoday.com.bd/wp-content/uploads/2017/04/narsingdi-jamidar-bari-12.jpg" },
+  "10":{ "nid": "10", "name": "Mr f", "is_portrait":true, "country": "bd", "picture": "http://photos.tourtoday.com.bd/wp-content/uploads/2017/04/narsingdi-jamidar-bari-12.jpg" }
   },
   "profile_data": {
     "uid": "1",
