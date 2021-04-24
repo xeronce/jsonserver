@@ -17,7 +17,15 @@
       { "nid": "9", "name": "Mr e", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn1i9mKTM5vm2zVE6ex7zfMSOvuFvKYrqzQ&usqp=CAU" },
       { "nid": "10", "name": "Mr f", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQVzgOrFgcD8daBE25DbgpZ3yLHKkyMAHneQ&usqp=CAU" },
       { "nid": "11", "name": "Mr g", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6SP3dRv5rlYGttVK5g8r7ZIhIYm_8zRy_Ow&usqp=CAU" },
-      { "nid": "12", "name": "Mr h", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrv-tSBgkKDSZj99nsBod5cKTcGMVdK9mZ2Q&usqp=CAU" }
+      { "nid": "12", "name": "Mr h", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrv-tSBgkKDSZj99nsBod5cKTcGMVdK9mZ2Q&usqp=CAU" },
+      { "nid": "13", "name": "Mr a", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkahKwF45M_xuqV4qu0BpdBLIybhCtFrFa4Q&usqp=CAU" },
+      { "nid": "14", "name": "Ms c", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrzWm7xVegm7NKSLWw4tjvBOArVXSYghiQMw&usqp=CAU" },
+      { "nid": "15", "name": "Mr e", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn1i9mKTM5vm2zVE6ex7zfMSOvuFvKYrqzQ&usqp=CAU" },
+      { "nid": "16", "name": "Mr g", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6SP3dRv5rlYGttVK5g8r7ZIhIYm_8zRy_Ow&usqp=CAU" },
+      { "nid": "17", "name": "Ms d", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZXzI-bIctT6HjtY-H2EYn4Vyk_IQPPbEVjw&usqp=CAU" },
+      { "nid": "18", "name": "Mr h", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrv-tSBgkKDSZj99nsBod5cKTcGMVdK9mZ2Q&usqp=CAU" },
+      { "nid": "19", "name": "arko rehman", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTUTOSMvk00C7XfwuE6qoVADO7pxFXrUPHYA&usqp=CAU" },
+      { "nid": "20", "name": "Abul Monsur", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWcbYMj4Tbp-GDUse37uToSFCTXsLrA-VWg&usqp=CAU" }
     ]
   },
   "detail_data": { "nid": "1", "name": "arko rehman", "is_portrait":false, "country": "bd", "picture": "https://live.staticflickr.com/2664/3867767062_ce759d1785.jpg" },
