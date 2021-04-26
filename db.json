@@ -65,7 +65,7 @@
     "country": "bd",
     "email": "arkorehman@gmail.com",
     "mobile_number": "02342424324",
-    "about": "this is about me data.",
+    "about": "this is about me data..",
     "payment_details": { "account_name": "arko rehman", "account_number": "23423424", "payment_type": "card" }
   }
 }
