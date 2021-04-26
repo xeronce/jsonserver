@@ -1,10 +1,40 @@
 {
-  "list_data": {
+  "list_data_featured": {
     "subject":"Nature of Bangladesh",
     "first_prize": "5",
     "second_prize": "1.5",
     "third_prize": ".5",
     "participate": "10",
+    "data": [
+      { "nid": "1", "name": "arko rehman", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTUTOSMvk00C7XfwuE6qoVADO7pxFXrUPHYA&usqp=CAU" },
+      { "nid": "2", "name": "Abul Monsur", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWcbYMj4Tbp-GDUse37uToSFCTXsLrA-VWg&usqp=CAU" },
+      { "nid": "3", "name": "Tazim Hossain", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh4kpFl3oIvno0YzLIedxNQJ9kVDltqIsfUA&usqp=CAU" },
+      { "nid": "4", "name": "Mafizur Rahman", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdf_cNsBBm1VM01e19RKSBBU7Zpl9meG1rzg&usqp=CAU" },
+      { "nid": "5", "name": "Mr a", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkahKwF45M_xuqV4qu0BpdBLIybhCtFrFa4Q&usqp=CAU" },
+      { "nid": "6", "name": "Mr b", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRojj-TO8E7JCfjU__AwHdJYpVWibWQhW092g&usqp=CAU" },
+    ]
+  },
+  "list_data_friends": {
+    "subject":"Nature of Bangladesh",
+    "first_prize": "5",
+    "second_prize": "1.5",
+    "third_prize": ".5",
+    "participate": "5",
+    "data": [
+      { "nid": "1", "name": "arko rehman", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTUTOSMvk00C7XfwuE6qoVADO7pxFXrUPHYA&usqp=CAU" },
+      { "nid": "2", "name": "Abul Monsur", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWcbYMj4Tbp-GDUse37uToSFCTXsLrA-VWg&usqp=CAU" },
+      { "nid": "3", "name": "Tazim Hossain", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh4kpFl3oIvno0YzLIedxNQJ9kVDltqIsfUA&usqp=CAU" },
+      { "nid": "4", "name": "Mafizur Rahman", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdf_cNsBBm1VM01e19RKSBBU7Zpl9meG1rzg&usqp=CAU" },
+      { "nid": "5", "name": "Mr a", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkahKwF45M_xuqV4qu0BpdBLIybhCtFrFa4Q&usqp=CAU" },
+      { "nid": "6", "name": "Mr b", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRojj-TO8E7JCfjU__AwHdJYpVWibWQhW092g&usqp=CAU" },
+    ]
+  },
+  "list_data_latest": {
+    "subject":"Nature of Bangladesh",
+    "first_prize": "5",
+    "second_prize": "1.5",
+    "third_prize": ".5",
+    "participate": "20",
     "data": [
       { "nid": "1", "name": "arko rehman", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTUTOSMvk00C7XfwuE6qoVADO7pxFXrUPHYA&usqp=CAU" },
       { "nid": "2", "name": "Abul Monsur", "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWcbYMj4Tbp-GDUse37uToSFCTXsLrA-VWg&usqp=CAU" },
