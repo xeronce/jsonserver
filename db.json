@@ -6,6 +6,7 @@
     "third_prize": ".5",
     "participate": "10",
     "lastNodeId":"20",
+    "hasNew":"0",
     "data": [
       {
         "nid": "1",
@@ -76,6 +77,7 @@
     "third_prize": ".5",
     "participate": "5",
     "lastNodeId":"20",
+    "hasNew":"0",
     "data": [
       {
         "nid": "1",
@@ -116,6 +118,7 @@
     "third_prize": ".5",
     "participate": "20",
     "lastNodeId":"20",
+    "hasNew":"0",
     "data": [
       {
         "nid": "1",
