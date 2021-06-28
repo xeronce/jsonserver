@@ -189,17 +189,4 @@
     "profile": "https://www.northbound.io/wp-content/uploads/2016/11/Masked-Round-Profile-Photo-Allan-Caeg.png",
     "photo": "https://i.pinimg.com/originals/1a/e1/99/1ae199f3a564f8fc1bffdf8f08679ac7.jpg"
   },
-  "profile_data": {
-    "uid": "1",
-    "name": "arko rehman",
-    "country": "bd",
-    "email": "arkorehman@gmail.com",
-    "mobile_number": "02342424324",
-    "about": "this is about me data..",
-    "payment_details": {
-      "account_name": "arko rehman",
-      "account_number": "23423424",
-      "payment_type": "card"
-    }
-  }
 }
