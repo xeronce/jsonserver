@@ -45,111 +45,37 @@
         "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkahKwF45M_xuqV4qu0BpdBLIybhCtFrFa4Q&usqp=CAU"
       },
       {
-        "nid": "1",
+        "nid": "6",
         "pgr_name": "arko rehman",
-        "pgr_uid":"1",
+        "pgr_uid":"6",
         "pgr_profile_picture": "https://www.northbound.io/wp-content/uploads/2016/11/Masked-Round-Profile-Photo-Allan-Caeg.png",
         "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrv-tSBgkKDSZj99nsBod5cKTcGMVdK9mZ2Q&usqp=CAU"
       },
       {
-        "nid": "2",
+        "nid": "7",
         "pgr_name": "Abul Monsur",
-        "pgr_uid":"2",
+        "pgr_uid":"7",
         "pgr_profile_picture": "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
         "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn1i9mKTM5vm2zVE6ex7zfMSOvuFvKYrqzQ&usqp=CAU"
       },
       {
-        "nid": "3",
+        "nid": "8",
         "pgr_name": "Tazim Hossain",
-        "pgr_uid":"3",
+        "pgr_uid":"8",
         "pgr_profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5kfU15BtxKhuUBJx6nhqq7I_ceosLFenbQ_TDMxP-Ui6xeQD715zqloNThQSY5xb45A8&usqp=CAU",
         "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZXzI-bIctT6HjtY-H2EYn4Vyk_IQPPbEVjw&usqp=CAU"
       },
       {
-        "nid": "4",
+        "nid": "9",
         "pgr_name": "Mafizur Rahman",
-        "pgr_uid":"4",
+        "pgr_uid":"9",
         "pgr_profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW4J_ngDMg5qYcC8a_v-X-fvISqJmUatkglA&usqp=CAU",
         "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrzWm7xVegm7NKSLWw4tjvBOArVXSYghiQMw&usqp=CAU"
       },
       {
-        "nid": "5",
+        "nid": "9",
         "pgr_name": "Mr a",
-        "pgr_uid":"5",
-        "pgr_profile_picture": "https://www.northbound.io/wp-content/uploads/2016/11/Masked-Round-Profile-Photo-Allan-Caeg.png",
-        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRojj-TO8E7JCfjU__AwHdJYpVWibWQhW092g&usqp=CAU"
-      }
-    ]
-  },
-  "list_data_friends": {
-    "data": [
-      {
-        "nid": "1",
-        "pgr_name": "arko rehman",
-        "pgr_uid":"1",
-        "pgr_profile_picture": "https://www.northbound.io/wp-content/uploads/2016/11/Masked-Round-Profile-Photo-Allan-Caeg.png",
-        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTUTOSMvk00C7XfwuE6qoVADO7pxFXrUPHYA&usqp=CAU"
-      },
-      {
-        "nid": "2",
-        "pgr_name": "Abul Monsur",
-        "pgr_uid":"2",
-        "pgr_profile_picture": "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
-        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWcbYMj4Tbp-GDUse37uToSFCTXsLrA-VWg&usqp=CAU"
-      },
-      {
-        "nid": "3",
-        "pgr_name": "Tazim Hossain",
-        "pgr_uid":"3",
-        "pgr_profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5kfU15BtxKhuUBJx6nhqq7I_ceosLFenbQ_TDMxP-Ui6xeQD715zqloNThQSY5xb45A8&usqp=CAU",
-        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh4kpFl3oIvno0YzLIedxNQJ9kVDltqIsfUA&usqp=CAU"
-      },
-      {
-        "nid": "4",
-        "pgr_name": "Mafizur Rahman",
-        "pgr_uid":"4",
-        "pgr_profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW4J_ngDMg5qYcC8a_v-X-fvISqJmUatkglA&usqp=CAU",
-        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdf_cNsBBm1VM01e19RKSBBU7Zpl9meG1rzg&usqp=CAU"
-      },
-      {
-        "nid": "5",
-        "pgr_name": "Mr a",
-        "pgr_uid":"5",
-        "pgr_profile_picture": "https://www.northbound.io/wp-content/uploads/2016/11/Masked-Round-Profile-Photo-Allan-Caeg.png",
-        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkahKwF45M_xuqV4qu0BpdBLIybhCtFrFa4Q&usqp=CAU"
-      },
-      {
-        "nid": "1",
-        "pgr_name": "arko rehman",
-        "pgr_uid":"1",
-        "pgr_profile_picture": "https://www.northbound.io/wp-content/uploads/2016/11/Masked-Round-Profile-Photo-Allan-Caeg.png",
-        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrv-tSBgkKDSZj99nsBod5cKTcGMVdK9mZ2Q&usqp=CAU"
-      },
-      {
-        "nid": "2",
-        "pgr_name": "Abul Monsur",
-        "pgr_uid":"2",
-        "pgr_profile_picture": "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
-        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn1i9mKTM5vm2zVE6ex7zfMSOvuFvKYrqzQ&usqp=CAU"
-      },
-      {
-        "nid": "3",
-        "pgr_name": "Tazim Hossain",
-        "pgr_uid":"3",
-        "pgr_profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5kfU15BtxKhuUBJx6nhqq7I_ceosLFenbQ_TDMxP-Ui6xeQD715zqloNThQSY5xb45A8&usqp=CAU",
-        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZXzI-bIctT6HjtY-H2EYn4Vyk_IQPPbEVjw&usqp=CAU"
-      },
-      {
-        "nid": "4",
-        "pgr_name": "Mafizur Rahman",
-        "pgr_uid":"4",
-        "pgr_profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW4J_ngDMg5qYcC8a_v-X-fvISqJmUatkglA&usqp=CAU",
-        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrzWm7xVegm7NKSLWw4tjvBOArVXSYghiQMw&usqp=CAU"
-      },
-      {
-        "nid": "5",
-        "pgr_name": "Mr a",
-        "pgr_uid":"5",
+        "pgr_uid":"9",
         "pgr_profile_picture": "https://www.northbound.io/wp-content/uploads/2016/11/Masked-Round-Profile-Photo-Allan-Caeg.png",
         "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRojj-TO8E7JCfjU__AwHdJYpVWibWQhW092g&usqp=CAU"
       }
@@ -193,39 +119,57 @@
         "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkahKwF45M_xuqV4qu0BpdBLIybhCtFrFa4Q&usqp=CAU"
       },
       {
+        "nid": "6",
+        "pgr_name": "arko rehman",
+        "pgr_uid":"6",
+        "pgr_profile_picture": "https://www.northbound.io/wp-content/uploads/2016/11/Masked-Round-Profile-Photo-Allan-Caeg.png",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrv-tSBgkKDSZj99nsBod5cKTcGMVdK9mZ2Q&usqp=CAU"
+      },
+      {
+        "nid": "7",
+        "pgr_name": "Abul Monsur",
+        "pgr_uid":"7",
+        "pgr_profile_picture": "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn1i9mKTM5vm2zVE6ex7zfMSOvuFvKYrqzQ&usqp=CAU"
+      },
+      {
+        "nid": "8",
+        "pgr_name": "Tazim Hossain",
+        "pgr_uid":"8",
+        "pgr_profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5kfU15BtxKhuUBJx6nhqq7I_ceosLFenbQ_TDMxP-Ui6xeQD715zqloNThQSY5xb45A8&usqp=CAU",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZXzI-bIctT6HjtY-H2EYn4Vyk_IQPPbEVjw&usqp=CAU"
+      },
+      {
+        "nid": "9",
+        "pgr_name": "Mafizur Rahman",
+        "pgr_uid":"9",
+        "pgr_profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW4J_ngDMg5qYcC8a_v-X-fvISqJmUatkglA&usqp=CAU",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrzWm7xVegm7NKSLWw4tjvBOArVXSYghiQMw&usqp=CAU"
+      },
+      {
+        "nid": "9",
+        "pgr_name": "Mr a",
+        "pgr_uid":"9",
+        "pgr_profile_picture": "https://www.northbound.io/wp-content/uploads/2016/11/Masked-Round-Profile-Photo-Allan-Caeg.png",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRojj-TO8E7JCfjU__AwHdJYpVWibWQhW092g&usqp=CAU"
+      }
+    ]
+  },
+  "list_data_follow": {
+    "data": [
+      {
         "nid": "1",
         "pgr_name": "arko rehman",
         "pgr_uid":"1",
         "pgr_profile_picture": "https://www.northbound.io/wp-content/uploads/2016/11/Masked-Round-Profile-Photo-Allan-Caeg.png",
-        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrv-tSBgkKDSZj99nsBod5cKTcGMVdK9mZ2Q&usqp=CAU"
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTUTOSMvk00C7XfwuE6qoVADO7pxFXrUPHYA&usqp=CAU"
       },
       {
         "nid": "2",
         "pgr_name": "Abul Monsur",
         "pgr_uid":"2",
         "pgr_profile_picture": "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
-        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn1i9mKTM5vm2zVE6ex7zfMSOvuFvKYrqzQ&usqp=CAU"
-      },
-      {
-        "nid": "3",
-        "pgr_name": "Tazim Hossain",
-        "pgr_uid":"3",
-        "pgr_profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5kfU15BtxKhuUBJx6nhqq7I_ceosLFenbQ_TDMxP-Ui6xeQD715zqloNThQSY5xb45A8&usqp=CAU",
-        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZXzI-bIctT6HjtY-H2EYn4Vyk_IQPPbEVjw&usqp=CAU"
-      },
-      {
-        "nid": "4",
-        "pgr_name": "Mafizur Rahman",
-        "pgr_uid":"4",
-        "pgr_profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW4J_ngDMg5qYcC8a_v-X-fvISqJmUatkglA&usqp=CAU",
-        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrzWm7xVegm7NKSLWw4tjvBOArVXSYghiQMw&usqp=CAU"
-      },
-      {
-        "nid": "5",
-        "pgr_name": "Mr a",
-        "pgr_uid":"5",
-        "pgr_profile_picture": "https://www.northbound.io/wp-content/uploads/2016/11/Masked-Round-Profile-Photo-Allan-Caeg.png",
-        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRojj-TO8E7JCfjU__AwHdJYpVWibWQhW092g&usqp=CAU"
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWcbYMj4Tbp-GDUse37uToSFCTXsLrA-VWg&usqp=CAU"
       }
     ]
   },
